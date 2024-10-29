@@ -218,8 +218,8 @@ CCTV17,http://p.ytelc.com/169l/0/aikan.php?id=cctv17
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰卫视香港台,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
+EBCNews,http://37.27.111.214:8080/live/20/hls.m3u8
+EBCNews,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 TVBPlus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
@@ -257,7 +257,7 @@ TVB星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 
 湾湾频道全网,#genre#
 中天新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv009
-东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
+EBCNews,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 TVBS新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 寰宇新闻,http://litv.zapi.us.kg/?id=litv-longturn14
 非凡新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv010
@@ -294,7 +294,7 @@ amc电影频英,http://61.221.215.25:8800/hls/43/index.m3u8
 ASC搜索频英,http://61.221.215.25:8800/hls/50/index.m3u8
 Diso综合频英,http://61.221.215.25:8800/hls/1/index.m3u8
 momotv,rtmp://f13h.mine.nu/sat/tv761
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
+EBCNews,http://37.27.111.214:8080/live/20/hls.m3u8
 TVBS闽南,http://37.27.111.214:8080/live/23/hls.m3u8
 民视闽南,http://37.27.111.214:8080/live/6/hls.m3u8
 中视闽南,http://37.27.111.214:8080/live/7/hls.m3u8

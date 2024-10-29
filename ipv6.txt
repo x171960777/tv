@@ -219,7 +219,6 @@ CCTV17,http://p.ytelc.com/169l/0/aikan.php?id=cctv17
 凤凰卫视香港台,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 EBCNews,http://37.27.111.214:8080/live/20/hls.m3u8
-EBCNews,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 TVBPlus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8

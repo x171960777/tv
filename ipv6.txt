@@ -230,7 +230,7 @@ tvbs新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 华视闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv041
 视闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv066
 寰宇闽南,http://litv.zapi.us.kg/?id=litv-longturn15
-tvbs闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv073
+TVBS闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv073
 民视湾,http://litv.zapi.us.kg/?id=4gtv-4gtv001
 民视湾,http://litv.zapi.us.kg/?id=4gtv-4gtv156
 民视第一,http://litv.zapi.us.kg/?id=4gtv-4gtv003
@@ -244,8 +244,8 @@ tvbs闽南,http://litv.zapi.us.kg/?id=4gtv-4gtv073
 闽南戏剧,http://litv.zapi.us.kg/?id=litv-longturn22
 国际财经,http://litv.zapi.us.kg/?id=4gtv-4gtv104
 东森财经,http://litv.zapi.us.kg/?id=4gtv-4gtv153
-tvbs精采,http://litv.zapi.us.kg/?id=4gtv-4gtv067
-tvbs欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
+TVBS精采,http://litv.zapi.us.kg/?id=4gtv-4gtv067
+TVBS欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 
 动物星球频国,http://61.221.215.25:8800/hls/57/index.m3u8
 amc电影频英,http://61.221.215.25:8800/hls/43/index.m3u8
@@ -253,13 +253,13 @@ ASC搜索频英,http://61.221.215.25:8800/hls/50/index.m3u8
 Diso综合频英,http://61.221.215.25:8800/hls/1/index.m3u8
 momotv,rtmp://f13h.mine.nu/sat/tv761
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-tvbs闽南,http://37.27.111.214:8080/live/23/hls.m3u8
+TVBS闽南,http://37.27.111.214:8080/live/23/hls.m3u8
 民视闽南,http://37.27.111.214:8080/live/6/hls.m3u8
 中视闽南,http://37.27.111.214:8080/live/7/hls.m3u8
 华视闽南,http://37.27.111.214:8080/live/8/hls.m3u8
 民视第一,http://37.27.111.214:8080/live/4/hls.m3u8
 民视台湾,http://37.27.111.214:8080/live/5/hls.m3u8
-tvbs欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
+TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
 幸福空间,http://37.27.111.214:8080/live/26/hls.m3u8
@@ -278,8 +278,8 @@ BLOOMBERG,http://37.27.111.214:8080/live/34/hls.m3u8
 
 中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-tvbs新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-tvbs闽南,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS闽南,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 三立新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
 三立综合,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 中视闽南,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8

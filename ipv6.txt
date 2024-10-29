@@ -318,7 +318,7 @@ CINEMA-,http://37.27.111.214:8080/live/30/hls.m3u8
 TV5_MONDE,http://37.27.111.214:8080/live/9/hls.m3u8
 BLOOMBERG,http://37.27.111.214:8080/live/34/hls.m3u8
 
-中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中天新闻台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS闽南,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
@@ -355,7 +355,7 @@ TVBS闽南,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 VOA美国之音,http://litv.zapi.us.kg/?id=litv-ftv03
 半岛新闻,http://litv.zapi.us.kg/?id=litv-ftv10
 非凡商业,http://litv.zapi.us.kg/?id=4gtv-4gtv048
-第壹商业,http://litv.zapi.us.kg/?id=4gtv-4gtv109
+第一商业,http://litv.zapi.us.kg/?id=4gtv-4gtv109
 爱放动漫,http://litv.zapi.us.kg/?id=litv-ftv15
 古典音乐,http://litv.zapi.us.kg/?id=4gtv-4gtv059
 客家电视,http://litv.zapi.us.kg/?id=4gtv-4gtv043
@@ -365,7 +365,7 @@ VOA美国之音,http://litv.zapi.us.kg/?id=litv-ftv03
 
 全球频道全网,#genre#
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-中國環球,http://live.cgtn.com/500/prog_index.m3u8
+中国环球,http://live.cgtn.com/500/prog_index.m3u8
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8

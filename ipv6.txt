@@ -267,21 +267,15 @@ SETZonghe,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
 
-非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-中视,rtmp://f13h.mine.nu/sat/tv091
-台视,rtmp://f13h.mine.nu/sat/tv071
-华视,rtmp://f13h.mine.nu/sat/tv111
-EBCSuper,rtmp://f13h.mine.nu/sat/tv331
+TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
+民视,http://37.27.111.214:8080/live/6/hls.m3u8
+中视,http://37.27.111.214:8080/live/7/hls.m3u8
+华视,http://37.27.111.214:8080/live/8/hls.m3u8
 动物星球频国,http://61.221.215.25:8800/hls/57/index.m3u8
 amc电影频英,http://61.221.215.25:8800/hls/43/index.m3u8
 ASC搜索频英,http://61.221.215.25:8800/hls/50/index.m3u8
 Diso综合频英,http://61.221.215.25:8800/hls/1/index.m3u8
-momotv,rtmp://f13h.mine.nu/sat/tv761
 EBCNews,http://37.27.111.214:8080/live/20/hls.m3u8
-TVBS闽南,http://37.27.111.214:8080/live/23/hls.m3u8
-民视,http://37.27.111.214:8080/live/6/hls.m3u8
-中视,http://37.27.111.214:8080/live/7/hls.m3u8
-华视,http://37.27.111.214:8080/live/8/hls.m3u8
 民视第一台,http://37.27.111.214:8080/live/4/hls.m3u8
 民视台湾台,http://37.27.111.214:8080/live/5/hls.m3u8
 TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8

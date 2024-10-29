@@ -45,15 +45,7 @@ CCTV13,http://kxrj.site:998/123/mg.php?id=cctv13
 CCTV14,http://kxrj.site:998/123/mg.php?id=cctv14
 CCTV15,http://kxrj.site:998/123/mg.php?id=cctv15
 CCTV17,http://kxrj.site:998/123/mg.php?id=cctv17
-CT4欧洲,http://kxrj.site:998/123/mg.php?id=cctv4o
-CT4美洲,http://kxrj.site:998/123/mg.php?id=cctv4a
-CGT纪录,http://kxrj.site:998/123/mg.php?id=cgtnjl
-CGT西语,http://kxrj.site:998/123/mg.php?id=cgtne
-CGT阿语,http://kxrj.site:998/123/mg.php?id=cgtna
-CGT法语,http://kxrj.site:998/123/mg.php?id=cgtnf
-CGT俄语,http://kxrj.site:998/123/mg.php?id=cgtnr
-家庭影院,http://kxrj.site:998/123/mg.php?id=chcjt
-动作电影,http://kxrj.site:998/123/mg.php?id=chcdz
+
 发现之旅,http://kxrj.site:998/123/mg.php?id=fxzl
 老故事台,http://kxrj.site:998/123/mg.php?id=lgs
 中学生台,http://kxrj.site:998/123/mg.php?id=zxs
@@ -74,18 +66,14 @@ CCTV13,http://p.ytelc.com/169l/0/aikan.php?id=cctv13
 CCTV14,http://p.ytelc.com/169l/0/aikan.php?id=cctv14
 CCTV15,http://p.ytelc.com/169l/0/aikan.php?id=cctv15
 CCTV17,http://p.ytelc.com/169l/0/aikan.php?id=cctv17
-家庭影院,http://p.ytelc.com/169l/0/aikan.php?id=chcjt
-动作电影,http://p.ytelc.com/169l/0/aikan.php?id=chcdz
-江苏教育,http://p.ytelc.com/169l/0/aikan.php?id=jsjy
-游戏风云,http://p.ytelc.com/169l/0/aikan.php?id=yxfy
 
 卫视频道,#genre#
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰卫视香港台,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰卫视香港台,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -192,7 +180,7 @@ CCTV17,http://p.ytelc.com/169l/0/aikan.php?id=cctv17
 中国港澳台,#genre#
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰卫视香港台,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 中天新聞,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
@@ -227,7 +215,7 @@ TVB翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 TVB星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
 凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰卫视香港台,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰中文,https://stream1.freetv.fun/16bc0b847b4c0a5a1a8645fc01576a0a28d5d8667bad711c48e5d80d12d2d329.ctv
 凤凰资讯,https://stream1.freetv.fun/2a72335a63dd0749c5a32d1bf1b0c001a81a26cc81d7e94534791d36f2c87d7d.ctv
 

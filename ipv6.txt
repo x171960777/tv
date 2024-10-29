@@ -283,12 +283,10 @@ TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 asiatravel,http://37.27.111.214:8080/live/10/hls.m3u8
 幸福空间,http://37.27.111.214:8080/live/26/hls.m3u8
 HakkaTV,http://37.27.111.214:8080/live/1/hls.m3u8
-TiTV原视,http://37.27.111.214:8080/live/2/hls.m3u8
+TiTV,http://37.27.111.214:8080/live/2/hls.m3u8
 动画动漫,http://37.27.111.214:8080/live/57/hls.m3u8
 Nick动画频一,http://37.27.111.214:8080/live/12/hls.m3u8
 Nick动画频二,http://37.27.111.214:8080/live/22/hls.m3u8
-MoMo亲子国,http://37.27.111.214:8080/live/3/hls.m3u8
-mTV音乐,http://37.27.111.214:8080/live/25/hls.m3u8
 HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
 HITS,http://37.27.111.214:8080/live/28/hls.m3u8
 cinemaworld,http://37.27.111.214:8080/live/30/hls.m3u8

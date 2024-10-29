@@ -46,10 +46,6 @@ CCTV14,http://kxrj.site:998/123/mg.php?id=cctv14
 CCTV15,http://kxrj.site:998/123/mg.php?id=cctv15
 CCTV17,http://kxrj.site:998/123/mg.php?id=cctv17
 
-发现之旅,http://kxrj.site:998/123/mg.php?id=fxzl
-老故事台,http://kxrj.site:998/123/mg.php?id=lgs
-中学生台,http://kxrj.site:998/123/mg.php?id=zxs
-
 CCTV1,http://p.ytelc.com/169l/0/aikan.php?id=cctv1
 CCTV2,http://p.ytelc.com/169l/0/aikan.php?id=cctv2
 CCTV3,http://p.ytelc.com/169l/0/aikan.php?id=cctv3
@@ -70,13 +66,13 @@ CCTV17,http://p.ytelc.com/169l/0/aikan.php?id=cctv17
 卫视频道,#genre#
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+凤凰香港台,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香台港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰中文,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://203.205.220.174:80/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港台,http://203.205.220.174:80/qctv.fengshows.cn/live/0701phk72.m3u8
 
 北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226450/index.m3u8
 湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226307/index.m3u8
@@ -180,15 +176,15 @@ CCTV17,http://p.ytelc.com/169l/0/aikan.php?id=cctv17
 中国港澳台,#genre#
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-中天新聞,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
-东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
+凤凰香港台,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+东森新闻台,http://37.27.111.214:8080/live/20/hls.m3u8
+东森新闻台,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 中天亞洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVBS新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 三立綜合,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 三立財經新聞,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8

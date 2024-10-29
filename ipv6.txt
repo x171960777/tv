@@ -228,8 +228,7 @@ TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 SETZonghe,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 三立财经新闻,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-千禧經典,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-娱乐新闻(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+千禧經典,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8 
 寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 无线新闻(北美),http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 明珠剧集(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8

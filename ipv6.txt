@@ -280,7 +280,7 @@ EBCNews,http://37.27.111.214:8080/live/20/hls.m3u8
 民视台湾台,http://37.27.111.214:8080/live/5/hls.m3u8
 TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
-亚洲旅游,http://37.27.111.214:8080/live/10/hls.m3u8
+asiatravel,http://37.27.111.214:8080/live/10/hls.m3u8
 幸福空间,http://37.27.111.214:8080/live/26/hls.m3u8
 HakkaTV,http://37.27.111.214:8080/live/1/hls.m3u8
 TiTV原视,http://37.27.111.214:8080/live/2/hls.m3u8
@@ -290,8 +290,8 @@ Nick动画频二,http://37.27.111.214:8080/live/22/hls.m3u8
 MoMo亲子国,http://37.27.111.214:8080/live/3/hls.m3u8
 mTV音乐,http://37.27.111.214:8080/live/25/hls.m3u8
 HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
-HITs电影,http://37.27.111.214:8080/live/28/hls.m3u8
-CINEMA-,http://37.27.111.214:8080/live/30/hls.m3u8
+HITS,http://37.27.111.214:8080/live/28/hls.m3u8
+cinemaworld,http://37.27.111.214:8080/live/30/hls.m3u8
 TV5_MONDE,http://37.27.111.214:8080/live/9/hls.m3u8
 BloombergTV,http://37.27.111.214:8080/live/34/hls.m3u8
 

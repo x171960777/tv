@@ -125,7 +125,7 @@ CCTV17,http://p.ytelc.com/169l/0/aikan.php?id=cctv17
 金鹰卡通,http://39.134.61.219/PLTV/88888888/224/3221226543/index.m3u8
 优漫卡通,http://39.134.61.219/PLTV/88888888/224/3221226945/index.m3u8
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png"
+#EXTINF:-1 tvg-name="辽宁都市频道" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png"
 辽宁都市频道,http://39.134.61.219/PLTV/88888888/224/3221226524/index.m3u8
 辽宁影视剧,http://39.134.61.219/PLTV/88888888/224/3221226512/index.m3u8
 辽宁教育,http://39.134.61.219/PLTV/88888888/224/3221226473/index.m3u8

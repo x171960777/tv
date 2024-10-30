@@ -275,7 +275,7 @@ EBCNews,http://37.27.111.214:8080/live/20/hls.m3u8
 TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 asiatravel,http://37.27.111.214:8080/live/10/hls.m3u8
-幸福空间,http://37.27.111.214:8080/live/26/hls.m3u8
+幸福空间居家台,http://37.27.111.214:8080/live/26/hls.m3u8
 HakkaTV,http://37.27.111.214:8080/live/1/hls.m3u8
 TiTV,http://37.27.111.214:8080/live/2/hls.m3u8
 动画动漫,http://37.27.111.214:8080/live/57/hls.m3u8
